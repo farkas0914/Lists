@@ -15,6 +15,14 @@
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 excitewin1.com
 0.0.0.0 icecasino.com
+0.0.0.0 borgataonline.com
+0.0.0.0 betrivers.com
+0.0.0.0 sisportsbook.com
+0.0.0.0 betmgm.com
+0.0.0.0 fanduel.com
+0.0.0.0 sportsbook.caesars.com
+0.0.0.0 playsugarhouse.com
+0.0.0.0 draftkings.com
 0.0.0.0 promo.casinoroom.com
 0.0.0.0 kaszinoonline.net
 0.0.0.0 fezbet.com
