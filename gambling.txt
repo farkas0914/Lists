@@ -13,6 +13,7 @@
 #
 # Gambling list
 # ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 excitewin1.com
 0.0.0.0 crownbet.com.au
 0.0.0.0 crownbet.com
 0.0.0.0 williamhill.com.au
